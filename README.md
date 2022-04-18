@@ -1,1 +1,0 @@
-# Emisiones-Contaminantes-Python
